@@ -1,4 +1,4 @@
 # Project Blog about Survival Analysis
 ---
-welcome to my blog!
+Welcome to my blog!
 ---
