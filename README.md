@@ -1,2 +1,4 @@
-# project_blog
-trying a blog
+# Project Blog about Survival Analysis
+---
+welcome to my blog!
+---
